@@ -33,7 +33,6 @@ Sederhana untuk dipahami bukan? dalam dunia penetration testing, teknik ini dise
 1. Sudo Privilege Escalation
 2. SUID PRivilege Escalation
 3. Library Hijack
-4. Insecure Path Reference
 
 Akan kita pelajari satu-satu dibawah, tetapi akan kita bahas terlebih dahulu terkait teknik enumerasi dan tools yang bisa digunakan:
 
